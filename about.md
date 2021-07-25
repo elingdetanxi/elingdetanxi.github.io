@@ -1,24 +1,22 @@
 ---
 layout: default
-title: About Long Haul
+title: About Me
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About Me</h1>
 	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro"> A new postdoc, who struggles to transit from chinese mode into u.s. one. </p>
+	<p> This website was inspired by <a href = "https://samxshang.github.io/about/">Samantha Shang</a>, who shared the procedure in <a href = "https://womenoverseas.com/t/topic/17528">women overseas</a>. I try to record some important thoughts in my research.</p>
+		
+	
+	<h2>Research</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<p>I'm a new postdoc in CEE, Cornell University. I earned my Ph.D. degree in Tongji University, Shanghai, and worked for SUS Environment Co. during Covid lockdown. After I got Visa from Singapore, I finally arrived in Ithaca to persue my research about N and P removal in wastewater. Thanks my PI did not give up me! </p>
+		<h3>research topics</h3>
+		<li>Anammox</li>
+  		<li>PdN</li>
   	</ul>
+	<h2>Personal</h2>
+	<p>I love to try something new. I hope I can keep recording fot half a year, which is my small task in 2021. </p>
 </div>
