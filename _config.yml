@@ -20,6 +20,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Content
+    url: /content
 
 social:
   github: elingdetanxi
