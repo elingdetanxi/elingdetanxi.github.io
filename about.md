@@ -12,8 +12,8 @@ title: About Me
 	
 	<h2>Research</h2>
 	<ul>
-		<p>I'm a new postdoc in CEE, Cornell University. I earned my Ph.D. degree in Tongji University, Shanghai, and worked for SUS Environment Co. during Covid lockdown. After I got Visa from Singapore, I finally arrived in Ithaca to persue my research about N and P removal in wastewater. Thanks my PI did not give up me! </p>
-		<h3>research topics</h3>
+	<p>I'm a new postdoc in CEE, Cornell University. I earned my Ph.D. degree in Tongji University, Shanghai, and worked for SUS Environment Co. during Covid lockdown. After I got Visa from Singapore, I finally arrived in Ithaca to persue my research about N and P removal in wastewater. Thanks my PI did not give up me! </p>
+	<h3>research topics</h3>
 		<li>Anammox</li>
   		<li>PdN</li>
   	</ul>
