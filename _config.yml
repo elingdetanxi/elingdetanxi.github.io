@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Elingdetanxi
+description: Welcome to my website! (Just a try)
 
 url: http://long-haul.netlify.app
 paginate_path: "blog/page:num/"
@@ -22,13 +22,13 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: elingdetanxi
+  #twitter: brianmaierjr
+  facebook: Yuan Yan
+  #email: brimaidesigns@gmail.com
+  linkedin: Yuan Yan
 
-google_analytics: "UA-58263416-1"
+#google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: yy
