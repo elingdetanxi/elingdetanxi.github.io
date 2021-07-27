@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "Image in Post"
 date:   2014-12-10
 ---
 >Start to learn the zettlekasten knowledge management system, which utilize zotero and obsidian to establish a routine workflow. I had a hard time switching from Mendeley to Zotero. As a convinent knowledge management software, Mendeley is easy to use, has an easy access to Elsevier database, and has powerful fuzzy search ability. Since I brought a new laptop and will go through a tough data transfer process, I forced myself to learn something new.>
