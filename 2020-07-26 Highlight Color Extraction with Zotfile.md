@@ -11,7 +11,7 @@ extensions.zotfile.pdfExtraction.formatAnnotationHighlight => <p>"%(content)" (%
 extensions.zotfile.pdfExtraction.formatAnnotationNote => <p><i>%(content) (<a href="%(uri)">note on p.%(page)</a>) (%(label); p.%(page); %(uri))</p><br>
 extensions.zotfile.pdfExtraction.formatAnnotationUnderline => <p>"<u>%(content)</u>" (%(label); p.%(page); %(uri))</p>
 ```
-After being exported, results in a note like this:：
+After being exported, results in a note like this:
 ![image.png](https://upload-images.jianshu.io/upload_images/31743-e1503d97020f7a58.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
