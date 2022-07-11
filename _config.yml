@@ -2,7 +2,7 @@ title: Elingdetanxi
 description: Welcome to my website! (Just a try)
 
 url: https://elingdetanxi.github.io/index.html
-paginate_path: "blog/page:num/"
+paginate_path: "blog/page:5/"
 permalink: blog/:title/
 
 # Header Option
