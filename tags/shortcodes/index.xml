@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shortcodes on Walden</title>
+    <title>Shortcodes on Yuan Yan</title>
     <link>https://elingdetanxi.github.io/tags/shortcodes/</link>
-    <description>Recent content in Shortcodes on Walden</description>
+    <description>Recent content in Shortcodes on Yuan Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>13050082@qq.com (Homecat)</managingEditor>
-    <webMaster>13050082@qq.com (Homecat)</webMaster>
+    <managingEditor>yuanyan@cornell.edu (Yuan)</managingEditor>
+    <webMaster>yuanyan@cornell.edu (Yuan)</webMaster>
     <lastBuildDate>Thu, 27 Apr 2023 02:12:52 +0000</lastBuildDate><atom:link href="https://elingdetanxi.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcodes Syntax - Carousel</title>
       <link>https://elingdetanxi.github.io/blog/shortcodes-syntax-carousel/</link>
       <pubDate>Thu, 27 Apr 2023 02:12:52 +0000</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
+      <author>yuanyan@cornell.edu (Yuan)</author>
       <guid>https://elingdetanxi.github.io/blog/shortcodes-syntax-carousel/</guid>
       <description>&lt;p&gt;Carousel is a useful shortcode in theme Walden, Used to display multiple images with their information.&lt;/p&gt;</description>
     </item>
@@ -22,7 +22,7 @@
       <title>Shortcodes Syntax</title>
       <link>https://elingdetanxi.github.io/blog/shortcodes-syntax/</link>
       <pubDate>Wed, 26 Apr 2023 06:04:57 +0000</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
+      <author>yuanyan@cornell.edu (Yuan)</author>
       <guid>https://elingdetanxi.github.io/blog/shortcodes-syntax/</guid>
       <description>&lt;p&gt;Shortcodes are simple snippets inside your content files calling built-in or custom templates. They are created to circumvent the limitations of Markdown Syntax.&lt;/p&gt;</description>
     </item>

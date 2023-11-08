@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Category on Walden</title>
+    <title>Category on Yuan Yan</title>
     <link>https://elingdetanxi.github.io/categories/</link>
-    <description>Recent content in Category on Walden</description>
+    <description>Recent content in Category on Yuan Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>13050082@qq.com (Homecat)</managingEditor>
-    <webMaster>13050082@qq.com (Homecat)</webMaster>
+    <managingEditor>yuanyan@cornell.edu (Yuan)</managingEditor>
+    <webMaster>yuanyan@cornell.edu (Yuan)</webMaster>
     <lastBuildDate>Wed, 08 Nov 2023 01:21:33 -0500</lastBuildDate><atom:link href="https://elingdetanxi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test run</title>
       <link>https://elingdetanxi.github.io/categories/test-run/</link>
       <pubDate>Wed, 08 Nov 2023 01:21:33 -0500</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
+      <author>yuanyan@cornell.edu (Yuan)</author>
       <guid>https://elingdetanxi.github.io/categories/test-run/</guid>
       <description></description>
     </item>
@@ -22,7 +22,7 @@
       <title>Theme Walden</title>
       <link>https://elingdetanxi.github.io/categories/theme-walden/</link>
       <pubDate>Fri, 28 Apr 2023 09:03:08 +0800</pubDate>
-      <author>13050082@qq.com (Homecat)</author>
+      <author>yuanyan@cornell.edu (Yuan)</author>
       <guid>https://elingdetanxi.github.io/categories/theme-walden/</guid>
       <description></description>
     </item>
