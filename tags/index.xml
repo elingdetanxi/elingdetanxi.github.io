@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on Walden</title>
+    <link>https://elingdetanxi.github.io/tags/</link>
+    <description>Recent content in Tag on Walden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>13050082@qq.com (Homecat)</managingEditor>
+    <webMaster>13050082@qq.com (Homecat)</webMaster>
+    <lastBuildDate>Wed, 08 Nov 2023 01:21:33 -0500</lastBuildDate><atom:link href="https://elingdetanxi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://elingdetanxi.github.io/tags/test/</link>
+      <pubDate>Wed, 08 Nov 2023 01:21:33 -0500</pubDate>
+      <author>13050082@qq.com (Homecat)</author>
+      <guid>https://elingdetanxi.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://elingdetanxi.github.io/tags/hugo/</link>
+      <pubDate>Fri, 28 Apr 2023 09:03:08 +0800</pubDate>
+      <author>13050082@qq.com (Homecat)</author>
+      <guid>https://elingdetanxi.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walden</title>
+      <link>https://elingdetanxi.github.io/tags/walden/</link>
+      <pubDate>Fri, 28 Apr 2023 09:03:08 +0800</pubDate>
+      <author>13050082@qq.com (Homecat)</author>
+      <guid>https://elingdetanxi.github.io/tags/walden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://elingdetanxi.github.io/tags/shortcodes/</link>
+      <pubDate>Thu, 27 Apr 2023 02:12:52 +0000</pubDate>
+      <author>13050082@qq.com (Homecat)</author>
+      <guid>https://elingdetanxi.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://elingdetanxi.github.io/tags/markdown/</link>
+      <pubDate>Wed, 26 Apr 2023 01:04:58 +0000</pubDate>
+      <author>13050082@qq.com (Homecat)</author>
+      <guid>https://elingdetanxi.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
